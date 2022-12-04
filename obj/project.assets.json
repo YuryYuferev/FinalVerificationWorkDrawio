@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий стол\\diagrams.drawio\\diagrams.drawio.csproj",
-      "projectName": "diagrams.drawio",
-      "projectPath": "D:\\Рабочий стол\\diagrams.drawio\\diagrams.drawio.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\FinalVerificationWorkDrawio\\FinalVerificationWorkDrawio.csproj",
+      "projectName": "FinalVerificationWorkDrawio",
+      "projectPath": "D:\\Рабочий стол\\FinalVerificationWorkDrawio\\FinalVerificationWorkDrawio.csproj",
       "packagesPath": "C:\\Users\\drjuf\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий стол\\diagrams.drawio\\obj\\",
+      "outputPath": "D:\\Рабочий стол\\FinalVerificationWorkDrawio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drjuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
